@@ -1,0 +1,19 @@
+ol {
+    border-bottom: 5px black double;
+    padding: 15px;
+}
+
+.main {
+    margin: 30px auto;
+    text-align: center;
+    width: 30%;
+}
+
+input {
+    margin: 10px;
+    text-align: center;
+}
+
+label, p, button {
+    margin-left: 15px;
+}
