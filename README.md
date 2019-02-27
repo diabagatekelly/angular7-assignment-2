@@ -3,7 +3,10 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0. The assignment was to practice Data Binding across various components.
 
 ## Assignment
-1. 
+1. Add a Input field which updates a property ('username') via Two-Way-Binding.
+2. Output the username property via String Interpolation (in a paragraph below the input).
+3. Add a button which may only be clicked if the username is NOT an empty string.
+4. Upon clicking the button, the username should be reset to an empty string.
 
 ## Development server
 
